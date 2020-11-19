@@ -424,7 +424,7 @@
         {
           "Ref": "AWS::Region"
         },
-        "ap-southeast-2"
+        "ap-southeast-2a"
       ]
     },
     "NVirginiaRegionCondition": {
@@ -432,7 +432,7 @@
         {
           "Ref": "AWS::Region"
         },
-        "ap-southeast-2"
+        "ap-southeast-2b"
       ]
     },
     "PrivateSubnetsCondition": {
